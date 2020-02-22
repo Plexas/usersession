@@ -1,0 +1,13 @@
+{
+    "name": "plexas/usersession",
+    "description": "User session management in laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Plexas",
+            "email": "plexas@nikkl.net"
+        }
+    ],
+    "require": {}
+}
