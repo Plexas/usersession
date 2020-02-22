@@ -9,5 +9,10 @@
             "email": "plexas@nikkl.net"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Plexas\\Auth\\": "src/"
+        }
+    }
 }
